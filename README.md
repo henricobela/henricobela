@@ -4,7 +4,7 @@
   <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>
   
   Estudei um pouco de <img src="https://img.shields.io/badge/-Java-black?logo=Java">, e tive algumas experiencias com <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=Spring%20Boot"> e <img src="https://img.shields.io/badge/-Spring-black?logo=Spring">. 
-  Atualmente estou focando meus estudos em <img src="https://img.shields.io/badge/-R-black?logo=R">, <img src="https://img.shields.io/badge/-Python-black?logo=Python">, <img src="https://img.shields.io/badge/-Lua-black?logo=Lua">, e Inteligencia Artificial e Machine Learning"
+  Atualmente estou focando meus estudos em <img src="https://img.shields.io/badge/-Python-black?logo=Python">, Inteligencia Artificial e Machine Learning!
   
 </p>
 
@@ -12,7 +12,7 @@
   🚀 Tenho conhecimento em ↴
 
  
-<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Lua-black?logo=Lua"> <img src="https://img.shields.io/badge/-R-black?logo=R"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-C-black?logo=C"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> 
+<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-C-black?logo=C"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> 
 </p>
 
 
