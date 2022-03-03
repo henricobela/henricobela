@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/example@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/henrico.developer@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-black?logo=Gmail" /></a>
 
   <a href="https://www.linkedin.com/in/henrico-nardelli-bela-806ab7103/" alt="Linkedin">
