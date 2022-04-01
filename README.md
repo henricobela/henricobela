@@ -12,7 +12,12 @@
   🚀 Tenho conhecimento em ↴
 
  
-<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-C-black?logo=C"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> <img src="https://img.shields.io/badge/-Google Colab-black?logo=Google Colab"> 
+<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-C-black?logo=C"> <img src="https://img.shields.io/badge/-R-black?logo=R"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> <img src="https://img.shields.io/badge/-Google Colab-black?logo=Google Colab"> <img src="https://img.shields.io/badge/-Jupyter-black?logo=Jupyter"> <img src="https://img.shields.io/badge/-pandas-black?logo=pandas">
+  
+  <img src="https://img.shields.io/badge/-Microsoft Azure-black?logo=Microsoft Azure"> - Machine Learn Studio, chat bots e criação de VM's
+  
+  <img src="https://img.shields.io/badge/-Amazon AWS-black?logo=Amazon AWS"> - Chat bot Lex e EC2
+  
 </p>
 
 
