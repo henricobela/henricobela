@@ -12,7 +12,7 @@
   🚀 Tenho conhecimento em ↴
 
  
-<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-C-black?logo=C"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> 
+<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-C-black?logo=C"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> <img src="https://img.shields.io/badge/-Google Colab-black?logo=Google Colab"> 
 </p>
 
 
