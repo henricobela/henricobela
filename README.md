@@ -10,9 +10,11 @@
 
 <p align="left">
   🚀 Tenho conhecimento em ↴
+  
 
- 
-<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-scikit-learn-black?logo=scikit-learn">  <img src="https://img.shields.io/badge/-R-black?logo=R"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> <img src="https://img.shields.io/badge/-Google Colab-black?logo=Google Colab"> <img src="https://img.shields.io/badge/-Jupyter-black?logo=Jupyter"> <img src="https://img.shields.io/badge/-pandas-black?logo=pandas"> <img src="https://img.shields.io/badge/-PyCharm-black?logo=PyCharm"> 
+  
+<img src="https://img.shields.io/badge/-Java-black?logo=Java"> <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-scikit learn-black?logo=scikit learn"> <img src="https://img.shields.io/badge/-pandas-black?logo=pandas"> <img src="https://img.shields.io/badge/-PyCharm-black?logo=PyCharm">
+<img src="https://img.shields.io/badge/-R-black?logo=R"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> <img src="https://img.shields.io/badge/-Google Colab-black?logo=Google Colab"> <img src="https://img.shields.io/badge/-Jupyter-black?logo=Jupyter">
   
   <img src="https://img.shields.io/badge/-Microsoft Azure-black?logo=Microsoft Azure"> - Machine Learn Studio, chat bots e criação de VM's
   
