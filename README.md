@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/henrico-nardelli-bela-806ab7103/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn" /></a> 
 
-  <a href="https://api.whatsapp.com/send?phone=5581999858081" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5511990044861" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-black?logo=WhatsApp">
 
    <a href="https://www.instagram.com/henricobela/">
