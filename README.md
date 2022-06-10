@@ -31,7 +31,7 @@
   <a href="https://mail.google.com/mail/u/henrico.developer@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-black?logo=Gmail" /></a>
 
-  <a href="https://www.linkedin.com/in/henrico-nardelli-bela-806ab7103/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/henricobela/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn" /></a> 
 
   <a href="https://api.whatsapp.com/send?phone=5511990044861" alt="WhatsApp">
