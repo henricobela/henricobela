@@ -3,7 +3,7 @@
 <p align="left"> 
   <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>
   
-  Estudei <img src="https://img.shields.io/badge/-Java-black?logo=Java">, e experiencias com <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=Spring%20Boot"> e <img src="https://img.shields.io/badge/-Spring-black?logo=Spring">. 
+  Experiencias acadêmicas com <img src="https://img.shields.io/badge/-Java-black?logo=Java">, <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=Spring%20Boot"> e <img src="https://img.shields.io/badge/-Spring-black?logo=Spring">. 
   Atualmente estou focando meus estudos em <img src="https://img.shields.io/badge/-Python-black?logo=Python">, Inteligencia Artificial e Machine Learning!
   
 </p>
