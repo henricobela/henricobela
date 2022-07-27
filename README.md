@@ -20,17 +20,21 @@
   <img src="https://img.shields.io/badge/-Amazon AWS-black?logo=Amazon AWS"> - Chat bot Lex e EC2
   
 </p>
-
+    
+    
+    
 <p align="left>
 
   📙 Estou estudando ↴
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="120" height="120"/>
           
-
-
+          
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+          
 </p>
 
+                                                                                                                           
+                                                                                                                           
 
 <p align="left">
    📞 Entre em contato comigo ↴
