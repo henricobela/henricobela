@@ -33,7 +33,7 @@
                                                                                                                            
 
 <p align="left">
-   📞 Entre em contato comigo ↴
+   <strong><bold>📞 Entre em contato comigo ↴<bold></strong>
 </p>
 
 <p align="left">
