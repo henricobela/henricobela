@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🚀 Tenho conhecimento em ↴
+  <strong><bold>🚀 Tenho conhecimento em ↴<bold></strong>
   
 
   
@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/-Amazon AWS-black?logo=Amazon AWS"> - Chat bot Lex e EC2
   
 </p>
+   
     
 
-  📙 Estou estudando ↴
+  <strong><bold>📙 Estou estudando ↴<bold></strong>
                
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
           
-
 
                                                                                                                            
                                                                                                                            
