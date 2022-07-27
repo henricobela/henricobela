@@ -21,6 +21,16 @@
   
 </p>
 
+<p align="left>
+
+  📙 Estou estudando ↴
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="120" height="120"/>
+          
+
+
+</p>
+
 
 <p align="left">
    📞 Entre em contato comigo ↴
