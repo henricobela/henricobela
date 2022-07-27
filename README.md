@@ -48,3 +48,12 @@
 
    <a href="https://www.instagram.com/henricobela/">
   <img src="https://img.shields.io/badge/-Instagram-black?logo=Instagram">
+     
+     
+     
+     
+ <div>
+<a href="https://github.com/henricobela">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricobela&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henricobela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
