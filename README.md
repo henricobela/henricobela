@@ -21,17 +21,13 @@
   
 </p>
     
-    
-    
-<p align="left>
 
   📙 Estou estudando ↴
-          
-          
+               
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
           
-</p>
+
 
                                                                                                                            
                                                                                                                            
