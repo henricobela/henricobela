@@ -10,16 +10,16 @@
 ```python
 #sobre mim
     
-def Henrico() -> dict:
+def henrico() -> dict:
     return {
       "nome": "Henrico Nardelli Bela",
       "idade": 26,
       "hobbies": ["Programacao", "Cinema", 
-                  "Series", "Games"],
-      "habilidades": ["Python", "Pandas", "Sklearn", 
-                      "Tensorflow", "Matplotlib", 
-                      "Vertex AI", "SQL", "NoSQL", ]
+                  "Series", "Games"]
     }
+    
+nome, idade, hobbies = henrico().values()
+print(f"Nome: {nome}\nIdade: {idade}\nHobbies: {hobbies}")
 ```
   
     
