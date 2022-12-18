@@ -8,9 +8,18 @@
 </p>
  
 ```python
-
-print("Hello World")
-
+#sobre mim
+    
+def Henrico() -> dict:
+    return {
+      "nome": "Henrico Nardelli Bela",
+      "idade": 26,
+      "hobbies": ["Programacao", "Cinema", 
+                  "Series", "Games"],
+      "habilidades": ["Python", "Pandas", "Sklearn", 
+                      "Tensorflow", "Matplotlib", 
+                      "Vertex AI", "SQL", "NoSQL", ]
+    }
 ```
   
     
