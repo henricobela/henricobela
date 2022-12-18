@@ -5,7 +5,14 @@
   
   Foco em <img src="https://img.shields.io/badge/-Python-black?logo=Python">, Inteligencia Artificial e Machine Learning!
   
-</p>  
+</p>
+ 
+```python
+
+print("Hello World")
+
+```
+  
     
 <p align="left">
   <strong><bold>🚀 Tenho conhecimento em ↴<bold></strong>
