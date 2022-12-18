@@ -2,19 +2,20 @@
 
 <p align="left"> 
   <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>
-  
-  Foco em <img src="https://img.shields.io/badge/-Python-black?logo=Python">, Inteligencia Artificial e Machine Learning!
-  
-</p>
-
- ```python
+    
+   ```python
     
     print("Hello World")
         
- ```
+    ```
     
     
     
+    
+  
+  Foco em <img src="https://img.shields.io/badge/-Python-black?logo=Python">, Inteligencia Artificial e Machine Learning!
+  
+</p>  
     
 <p align="left">
   <strong><bold>🚀 Tenho conhecimento em ↴<bold></strong>
