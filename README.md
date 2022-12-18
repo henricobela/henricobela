@@ -31,9 +31,11 @@ print(f"Nome: {nome}\nIdade: {idade}\nHobbies: {hobbies}")
 <img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-TensorFlow-black?logo=TensorFlow"> <img src="https://img.shields.io/badge/-scikit learn-black?logo=scikit learn"> <img src="https://img.shields.io/badge/-pandas-black?logo=pandas"> <img src="https://img.shields.io/badge/-PyCharm-black?logo=PyCharm">
 <img src="https://img.shields.io/badge/-R-black?logo=R"> <img src="https://img.shields.io/badge/-Git-black?logo=Git"> <img src="https://img.shields.io/badge/-Google Colab-black?logo=Google Colab"> <img src="https://img.shields.io/badge/-Jupyter-black?logo=Jupyter">
   
-  <img src="https://img.shields.io/badge/-Microsoft Azure-black?logo=Microsoft Azure"> - Machine Learn Studio, chat bots e criação de VM's
+  <img src="https://img.shields.io/badge/-Microsoft Azure-black?logo=Microsoft Azure"> - Machine Learn Studio, chatbots e criação de VM's
   
-  <img src="https://img.shields.io/badge/-Amazon AWS-black?logo=Amazon AWS"> - Chat bot Lex e EC2
+  <img src="https://img.shields.io/badge/-Amazon AWS-black?logo=Amazon AWS"> - Sagemaker, chatbots, VM's
+    
+  <img src="https://img.shields.io/badge/-Google Cloud-black?logo=Google Cloud"> - Google Cloud Platform - Vertex AI
   
 </p>
    
