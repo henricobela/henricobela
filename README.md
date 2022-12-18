@@ -1,17 +1,7 @@
 <img src="https://www.pikpng.com/pngl/b/64-643987_what-is-artificial-intelligence-circle-clipart.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>
-    
-   ```python
-    
-    print("Hello World")
-        
-    ```
-    
-    
-    
-    
+  <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>    
   
   Foco em <img src="https://img.shields.io/badge/-Python-black?logo=Python">, Inteligencia Artificial e Machine Learning!
   
