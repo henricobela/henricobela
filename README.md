@@ -7,6 +7,15 @@
   
 </p>
 
+ ```python
+    
+    print("Hello World")
+        
+ ```
+    
+    
+    
+    
 <p align="left">
   <strong><bold>🚀 Tenho conhecimento em ↴<bold></strong>
   
