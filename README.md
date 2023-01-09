@@ -75,3 +75,4 @@ print(f"Nome: {nome}\nIdade: {idade}\nHobbies: {hobbies}")
 
 
 ![Snake animation](https://github.com/henricobela/henricobela/blob/output/github-contribution-grid-snake.svg)
+     
