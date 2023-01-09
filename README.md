@@ -9,11 +9,16 @@
  
 ```python
 #sobre mim
-    
+from datetime import datetime
+
+born = 1996
+now = datetime.now()
+age = now.year - born
+
 def henrico() -> dict:
     return {
       "nome": "Henrico Nardelli Bela",
-      "idade": 26,
+      "idade": age,
       "hobbies": ["Programacao", "Cinema", 
                   "Series", "Games"]
     }
