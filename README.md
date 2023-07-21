@@ -1,4 +1,4 @@
-<img src="https://www.pikpng.com/pngl/b/64-643987_what-is-artificial-intelligence-circle-clipart.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/09/shutterstock_725383498.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>    
