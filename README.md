@@ -1,14 +1,14 @@
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/09/shutterstock_725383498.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong><bold>☠️ Bem vindo ao meu mundo ☠️<bold></strong>    
+  <strong><bold>☠️ Welcome to my world! ☠️<bold></strong>    
   
-  Estudando e trabalhando com Python, Machine Learning e Deep Learning!
+  Currently studying Data Science frameworks and languages (Python, Deep Learning, Machine Learning, TensorFlow, Keras, and more!).
   
 </p>
  
 ```python
-#sobre mim
+#about me
 from datetime import datetime
 
 born = 1996
@@ -19,17 +19,17 @@ def henrico() -> dict:
     return {
       "nome": "Henrico Nardelli Bela",
       "idade": age,
-      "hobbies": ["Programacao", "Cinema", 
-                  "Series", "Games"]
+      "hobbies": ["Programming", "Cinema", 
+                  "TV Shows", "Games"]
     }
     
-nome, idade, hobbies = henrico().values()
-print(f"Nome: {nome}\nIdade: {idade}\nHobbies: {hobbies}")
+name, age, hobbies = henrico().values()
+print(f"Name: {name}\nIdade: {age}\nHobbies: {hobbies}")
 ```
   
     
 <p align="left">
-  <strong><bold>🚀 Tenho conhecimento em ↴<bold></strong>
+  <strong><bold>🚀 My knowledge ↴<bold></strong>
   
 
   
@@ -46,7 +46,7 @@ print(f"Nome: {nome}\nIdade: {idade}\nHobbies: {hobbies}")
    
     
 
-  <strong><bold>📙 Estou estudando ↴<bold></strong>
+  <strong><bold>📙 Studying ↴<bold></strong>
                
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
@@ -57,7 +57,7 @@ print(f"Nome: {nome}\nIdade: {idade}\nHobbies: {hobbies}")
                                                                                                                            
 
 <p align="left">
-   <strong><bold>📞 Entre em contato comigo ↴<bold></strong>
+   <strong><bold>📞 Reach out ↴<bold></strong>
 </p>
 
 <p align="left">
