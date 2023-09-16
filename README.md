@@ -17,14 +17,14 @@ age = now.year - born
 
 def henrico() -> dict:
     return {
-      "nome": "Henrico Nardelli Bela",
-      "idade": age,
+      "name": "Henrico Nardelli Bela",
+      "age": age,
       "hobbies": ["Programming", "Cinema", 
                   "TV Shows", "Games"]
     }
     
 name, age, hobbies = henrico().values()
-print(f"Name: {name}\nIdade: {age}\nHobbies: {hobbies}")
+print(f"Name: {name}\nAge: {age}\nHobbies: {hobbies}")
 ```
   
     
