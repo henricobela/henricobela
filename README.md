@@ -77,6 +77,10 @@ print(f"Name: {name}\nAge: {age}\nHobbies: {hobbies}")
 
 ![Snake animation](https://github.com/henricobela/henricobela/blob/output/github-contribution-grid-snake.svg)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricobela&theme=dark&show_icons=true)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henricobela" />
 </a>
