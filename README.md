@@ -11,19 +11,20 @@
 #about me
 from datetime import datetime
 
-born = 1996
-now = datetime.now()
-age = now.year - born
-
 def henrico() -> dict:
-    return {
-      "name": "Henrico Nardelli Bela",
-      "age": age,
-      "hobbies": ["Programming", "Cinema", 
-                  "TV Shows", "Games"]
-    }
+    born = 1996
+    now = datetime.now()
+    age = now.year - born
+    me = {
+          "name": "Henrico Nardelli Bela",
+          "age": age,
+          "hobbies": ["Programming", "Cinema", 
+                      "TV Shows", "Games"]
+        }
+
+    return me.values()
     
-name, age, hobbies = henrico().values()
+name, age, hobbies = henrico()
 print(f"Name: {name}\nAge: {age}\nHobbies: {hobbies}")
 ```
   
