@@ -11,7 +11,7 @@
 #about me
 from datetime import datetime
 
-def henrico() -> dict:
+def henrico() -> list:
     born = 1996
     now = datetime.now()
     age = now.year - born
